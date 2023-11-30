@@ -6,19 +6,24 @@ During my research I came across many websites, some were helpful and the others
 
 ### **_Invisawear Jewlery_**
 
-A company called Invisawear produces jewelry that has the power to save lives. The reason smart jewelry is so amazing is that it is both useful as well as fashionable! You may even make a 911 call by double-pressing the back of a charm to let someone know where you are. This device uses **bluetooth low energy** and needs the installation of an app on your phone for it to work.
+A company called Invisawear produces jewelry that has the power to save lives. The reason smart jewelry is so amazing is that it is both useful as well as fashionable! You may even make a 911 call by double-pressing the back of a charm to let someone know where you are. This device uses software which is **bluetooth low energy** and needs the installation of an app on your phone for it to work.
 
 ### **_Bose Frame_**
 
-Bose frames are sunglasses, however, they can connect to Bluetooth from your phone and complete the same usage as headphones! Instead of ruining your look with bulky headphones, bose frames provide the same service that not only makes you look good, but feel good.  These chic shades have built-in microphones and concealed speakers that are only accessible to YOUR ears.  
+Bose frames are audio sunglasses, however, they can connect to Bluetooth from your phone and complete the same usage as headphones! Instead of ruining your look with bulky headphones, bose frames provide the same service that not only makes you look good, but feel good. These chic shades have built-in microphones and concealed speakers that are only accessible to YOUR ears. The hardware of these sunglasses includes the batteries, frame design, and audio components. The software of these sunglasses are the voice assistants and the Base connection app. 
 
 ### **_Smart LB Wallet_**
 
 Some people feel that a wallet completes their look, however, losing it can be annoying. This device is useful for more than just looking fly. Your wallet can be monitored by the Smart Anti-Lost Wallet, which allows you to utilize your phone to set off an alarm if it gets lost. It maintains a connection from your phone to your wallet via Bluetooth. By detecting its location, this smart device prevents theft or loss. In the unlikely event that you misplace your wallet, there is an extra function that causes your phone to vibrate. 
+ 
+The gadgets described above are brilliant and extremely beneficial including the usage of software and hardware, yet the fashion industry fails to take advantage of technology for modest purposes.
 
 ---
 
-## EDP (Engineering Design Process)
+## EDP (Engineering Design Process) 
+ 
+
+
 ## Skills
 
 
