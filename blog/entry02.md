@@ -25,7 +25,7 @@ The gadgets described above are brilliant and extremely beneficial including the
 In my engineering design process, I touched up on stage two (research the problem) from my first entry. I attempted to use technology to look up modesty in the fashion industry, but I was unable to gather information. This occurrance was because of the fact that no industry/company works with technology for modesty purposes. After this entry, I would like to start the process of brainstorming solutions to come up with a fix to this dilemma. I have a few ideas in mind already, which I will be jotting down on my notes. 
 
 ## Skills
-In this second entry, I would like to reflect on two skills that I believe I touched on. The first skill is: 
+In this second entry, I would like to reflect on two skills that I believe I touched on. 
 
 ### **Embracing failure**
 
