@@ -22,7 +22,7 @@ The gadgets described above are brilliant and extremely beneficial including the
 
 ## EDP (Engineering Design Process) 
  
-
+In my engineering design process, I touched up on stage two . Stage two is research the problem. Although I didn't find technology in the fashion industry focusing on modesty, that is the problem
 
 ## Skills
 
