@@ -22,9 +22,18 @@ The gadgets described above are brilliant and extremely beneficial including the
 
 ## EDP (Engineering Design Process) 
  
-In my engineering design process, I touched up on stage two . Stage two is research the problem. Although I didn't find technology in the fashion industry focusing on modesty, that is the problem
+In my engineering design process, I touched up on stage two (research the problem) from my first entry. I attempted to use technology to look up modesty in the fashion industry, but I was unable to gather information. This occurrance was because of the fact that no industry/company works with technology for modesty purposes. After this entry, I would like to start the process of brainstorming solutions to come up with a fix to this dilemma. I have a few ideas in mind already, which I will be jotting down on my notes. 
 
 ## Skills
+In this second entry, I would like to reflect on two skills that I believe I touched on. The first skill is: 
+
+### **Embracing failure**
+
+I believe I touched on this skill since it was extremely challenging for me to come across anything on modesty in the fashion industry **with** the usage of technology during my research. Although it wasn't impossible, I did stumble upon one website focused on modesty in the fashion industry with the use of technology, however it was very shady. I used common sense to acknowledge the fact that I shouldn't trust this website. The website was very cluttered, with pop-ups constantly appearing for you to sign up as you scrolled. It also felt off with the amount of ads that were displayed. Also, the diction that was chosen for the very weak information that was given was very poor. I'm glad I found this struggle because, without it, I couldn't have determined whether the previous website was a trustworthy source. 
+
+### **Organization** 
+
+The skill of organization played a big role in this stage of my EDP. I say this because as I was roaming around websites, I lost track of where I was and what I was reading. I opened so many tabs that I could only preview the icons on the top because of the clutter. As I went to my next classes, I felt overwhelmed as if my thoughts were everywhere. As soon as I got home I knew I had to tackle this problem.  I didn't want to close any tabs in case I would write about them so instead I took my time to X out the irrelevant tabs. After this, I created a group for all of these tabs and named it "research". As school days passed, I continued to work on my research and kept those websites in the research group. I use my personal computer for all my classes, so with the help of these groups, I wasn't concerned that my assignments from different classes would get mixed up. I felt relieved because a tidy workspace helps my thoughts to flow more easily.  
 
 
 [Previous](entry01.md) | [Next](entry03.md)
