@@ -6,7 +6,7 @@ During my research I came across many websites, some were helpful and the others
 
 ### **_Invisawear Jewlery_**
 
-A company called Invisawear produces jewelry that has the power to save lives. The reason smart jewelry is so amazing is that it is both useful as well as fashionable! You may even make a 911 call by double-pressing the back of a charm to let someone know where you are. This device uses software which is **bluetooth low energy** and needs the installation of an app on your phone for it to work.
+A company called Invisawear produces jewelry that has the power to save lives. The reason smart jewelry is so amazing is that it is both useful as well as fashionable! You may even make a 911 call by double-pressing the back of a charm to let someone know where you are. This device uses **bluetooth low energy** and needs the installation of an app on your phone for it to work.
 
 ### **_Bose Frame_**
 
