@@ -16,13 +16,13 @@ Bose frames are audio sunglasses, however, they can connect to Bluetooth from yo
 
 Some people feel that a wallet completes their look, however, losing it can be annoying. This device is useful for more than just looking fly. Your wallet can be monitored by the Smart Anti-Lost Wallet, which allows you to utilize your phone to set off an alarm if it gets lost. It maintains a connection from your phone to your wallet via Bluetooth. By detecting its location, this smart device prevents theft or loss. In the unlikely event that you misplace your wallet, there is an extra function that causes your phone to vibrate. 
  
-The gadgets described above are brilliant and extremely beneficial including the usage of software and hardware, yet the fashion industry fails to take advantage of technology for modest purposes.
+The gadgets described above are brilliant and extremely beneficial including the usage of software and hardware, yet many fashion industry fail to take full advantage of technology.
 
 ---
 
 ## EDP (Engineering Design Process) 
  
-In my engineering design process, I touched up on stage two (research the problem) from my first entry. I attempted to use technology to look up modesty in the fashion industry, but I was unable to gather information. This occurrance was because of the fact that no industry/company works with technology for modesty purposes. After this entry, I would like to start the process of brainstorming solutions to come up with a fix to this dilemma. I have a few ideas in mind already, which I will be jotting down on my notes. 
+In my engineering design process, I touched up on stage two (research the problem) from my first entry. I attempted to use technology to look up modesty in the fashion industry, but I was unable to gather information. This occurrance was because of the fact that no industry/company works with technology. After this entry, I would like to start the process of brainstorming solutions to come up with a fix to this dilemma. I have a few ideas in mind already, which I will be jotting down on my notes. 
 
 ## Skills
 In this second entry, I would like to reflect on two skills that I believe I touched on. 
@@ -35,6 +35,8 @@ I believe I touched on this skill since it was extremely challenging for me to c
 
 The skill of organization played a big role in this stage of my EDP. I say this because as I was roaming around websites, I lost track of where I was and what I was reading. I opened so many tabs that I could only preview the icons on the top because of the clutter. As I went to my next classes, I felt overwhelmed as if my thoughts were everywhere. As soon as I got home I knew I had to tackle this problem.  I didn't want to close any tabs in case I would write about them so instead I took my time to X out the irrelevant tabs. After this, I created a group for all of these tabs and named it "research". As school days passed, I continued to work on my research and kept those websites in the research group. I use my personal computer for all my classes, so with the help of these groups, I wasn't concerned that my assignments from different classes would get mixed up. I felt relieved because a tidy workspace helps my thoughts to flow more easily.  
 
+## Next Steps 
+Now I am ready to _**brainstorm**_ possible solutions
 
 [Previous](entry01.md) | [Next](entry03.md)
 
