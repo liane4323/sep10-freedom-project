@@ -2,7 +2,9 @@
 ##### 12/18/23
 
 ## Content
-In this entry, I brainstormed possible inventions and finalized the content that I will be putting in my website. 
+In this entry:
+1. I Brainstormed possible inventions 
+2. Finalize the content that I will be putting on my website. 
 
 #### Brainstorming Process 
 
