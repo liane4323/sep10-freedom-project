@@ -44,8 +44,8 @@ In this third entry, I would like to reflect on a skill that I believe I touched
 I believe that I worked on this skill because I made it my respsibility to complete my priority tasks first and give in my full effort. If I failed to do so, I took away the things that distracted me. For instance, I remember when I was in the process of completing my FP (freedom project) content, I got distracted by my phone for a period of 2 hours. I let myself waste 120 minutes instead of doing something productive. I felt unpleasent with my actions. I decided to step up and take action so I can ensure that I won't get distracted. I gave my phone to my sister to hold it for me until I was done with what I needed to complete. As a result, this occurrence made me wake up to my senses and see how important it is to have boundaries and limits within ourselves.
 
 ## Next Steps 
-
 Now I am ready to _**plan**_ promising solutions.
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
