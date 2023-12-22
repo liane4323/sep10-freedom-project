@@ -8,7 +8,7 @@ In this entry:
 
 ### Brainstorming Possible Inventions 
 
-I had an idea for possible inventions of hardware and software using inspiration from a previous student. I thought about the outfit issues that most of us deal with daily and how we may approach the problem to make our lives easier.
+I had an idea for possible inventions of hardware and software using <ins>[inspiration](https://chanryc9471.github.io/sep10-freedom-project/#hardware)</ins> from a previous student. I thought about the outfit issues that most of us deal with daily and how we may approach the problem to make our lives easier.
 
  Below is my initial brainstorming of these inventions:
 
@@ -32,13 +32,21 @@ This bot may become your best friend, it is available anytime and it can charge 
 
 In class, we were assigned to come up with the content that will go on our website. I combined the research that I conducted on _present inventions_ with my brainstorming on _possible inventions_. The website content wasn't challenging for me in any way because, I was very self-disciplined with my classwork and homework. I got everything that I needed to do out of the way so my content process could be steadfast. 
 
-## EDP (Engineering Design Process)
+## [EDP](https://hstatsep.github.io/students/#edp) (Engineering Design Process)
+
+I am currently in step 3 of the EDP which is, **"Brainstorm possible solutions"**. I came up with one software and one hardware possible solutions which is stated above in my content section. 
+
+## Skill
+
+. 
+### Self Discipline
 
 
-## SKills 
+
 
 
 ## Next Steps 
+
 
 
 [Previous](entry02.md) | [Next](entry04.md)
