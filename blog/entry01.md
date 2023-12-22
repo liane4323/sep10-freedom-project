@@ -1,4 +1,4 @@
-# Entry 1: Deciding On My Topic 
+# Entry 1 ♡
 
 ##### 10/23/23
 
