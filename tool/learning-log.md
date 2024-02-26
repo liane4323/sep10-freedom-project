@@ -1,6 +1,6 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **Animate.CSS/Wow.JS**
 
 ---
 
