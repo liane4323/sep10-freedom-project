@@ -48,12 +48,8 @@ During this entry, I kept my options open and considered all the tools that were
 As I was tinkering with my tool in jsbin, I got so excited that I forgot to install Animate.CSS on my webpage. I spent almost 30 minutes trying to find out if there were any typos or if I wrote the wrong code. Eventually, I realized that I missed the most important step and went straight into coding. This moment taught me to always prioritize important tasks and follow instructions correctly.
 
 
-
-
-
-
-
-
+## Next Steps
+Now I am ready to _**use WowJS/AnimateCSS**_ on my project.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
