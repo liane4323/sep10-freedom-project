@@ -1,6 +1,6 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **Animate.CSS + Wow.JS**
 
 ---
 
@@ -11,7 +11,7 @@ X/X/X:
 * Text
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
