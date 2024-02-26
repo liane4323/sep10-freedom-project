@@ -20,3 +20,7 @@ My initial idea for this blog was to write about cooking or sports. I never eve
 
 ## Next steps 
 I am prepared to start my research on possible technologies in fashion. 
+
+[Next](entry02.md)
+
+[Home](../README.md)
