@@ -19,7 +19,7 @@ During the research I conducted, I had to analyze different websites and questio
 My initial idea for this blog was to write about cooking or sports. I never even considered using fashion as my topic. When I was brainstorming later at home to come up with three subjects to choose from, I thought about something that is really significant to me and my daily life, **_fashion_**. I thought about how much I value my clothing, at first  I was hesitant to choose this topic, but then I remembered how important this topic is to me. I used logic to pick out what I was passionate about, I asked myself these two questions... "Why would I choose sports if I stopped playing them?" and "If I am such a bad cook, then why would I choose cooking for my topic?". If I continue to use this logic every day and for future projects, I will be able to correctly pick what is good for me.
 
 ## Next steps 
-I am prepared to start my research on possible technologies in fashion. 
+I am prepared to start my **_research_** on possible technologies in fashion. 
 
 [Next](entry02.md)
 
