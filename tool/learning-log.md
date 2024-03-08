@@ -29,7 +29,7 @@ Below is a code snippet of code that I found interesting, I may consider using i
   75% { color: #00BDA5; }
 }
 ```
-This code is using keyframe to specify the code animation that they want to use which is change-color. This code enables the text color to be changed into any colors that you pick. This animation is very useful if you are trying to point something out in your website insead of making it bold or italicizing it. 
+This code is using keyframe to specify the code animation that they want to use which is change-color. It enables the text color to be changed into any colors that you pick. This animation is very useful if you are trying to point something out in your website insead of making it bold or italicizing it. 
 
 
 
