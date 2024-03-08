@@ -14,8 +14,8 @@ Tool: **Animate.CSS + Wow.JS**
 
 [HubSpot](https://blog.hubspot.com/website/css-animation-not-working) is a website used to assist with problem solving CSS Animation issues. In case I get stuck along my LOYO journey, I will go back to this site for reference.
 
-As I was reading through this website I copied and pasted the "Multiple Misaligned Animation Property Values" code into jsbin.
-* I analyzed the CSS and figured out what significance each line of code has. 
+As I was reading through this website I copied and pasted the "Multiple Misaligned Animation Property Values" code into jsbin. Then I proceeded to analyze the CSS and figure out the significance each line of code has. 
+
 *  animation-iteration-count → amount of times the animation repeats
 *  word-spacing → the distance between each word as the animation is on
 
