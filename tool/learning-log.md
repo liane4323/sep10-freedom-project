@@ -11,6 +11,7 @@ Tool: **Animate.CSS + Wow.JS**
 * important tip given --> "Do not hesitate to ask people around you for help, you know not who has the answer to your biggest question!"
 
 3/4/24:
+
 [HubSpot](https://blog.hubspot.com/website/css-animation-not-working) is a website used to assist with problem solving CSS Animation issues. In case I get stuck along my LOYO journey, I will go back to this site for reference.
 
 As I was reading through this website I copied and pasted the "Multiple Misaligned Animation Property Values" code into jsbin.
