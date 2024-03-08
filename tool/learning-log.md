@@ -18,7 +18,9 @@ As I was reading through this website I copied and pasted the "Multiple Misalign
 
 *  animation-iteration-count → amount of times the animation repeats
 *  word-spacing → the distance between each word as the animation is on
+*  @keyframe is a rule that specifies the animation code
 
+Below is a code snippet of code that I found interesting, I may consider using it on my own website.
 
 ```
  @keyframes change-color {
@@ -27,8 +29,9 @@ As I was reading through this website I copied and pasted the "Multiple Misalign
   75% { color: #00BDA5; }
 }
 ```
+This code is using keyframe to specify the code animation that they want to use which is change-color. This code enables the text color to be changed into any colors that you pick. This animation is very useful if you are trying to point something out in your website insead of making it bold or italicizing it. 
 
-* 
+
 
 <!--
 * Links you used today (websites, videos, etc)
