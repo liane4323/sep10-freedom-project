@@ -11,7 +11,7 @@ Tool: **Animate.CSS + Wow.JS**
 * important tip given --> "Do not hesitate to ask people around you for help, you know not who has the answer to your biggest question!"
 
 3/4/24:
-* I found a [website](https://blog.hubspot.com/website/css-animation-not-working) that helps with problem solving css issues. I made sure to search about this because if I get stuck along the way I know where to come back to for additional assistance. 
+* [HubSpot](https://blog.hubspot.com/website/css-animation-not-working) is a website used to assist with problem solving css animation issues. In case i get stuck along the way I will go back to this site for reference. 
 
 <!--
 * Links you used today (websites, videos, etc)
