@@ -33,10 +33,14 @@ This code is using keyframe to specify the code animation that they want to use 
 
 _**Next Steps**: I will research ways on how to problem solve Wow.Js errors._
 
-3/11/24
+3/11/24:
 
 
-3/18/24
+
+
+3/18/24:
+
+
 
 <!--
 * Links you used today (websites, videos, etc)
