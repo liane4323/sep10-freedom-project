@@ -29,16 +29,15 @@ Below is a code snippet of code that I found interesting, I may consider using i
   75% { color: #00BDA5; }
 }
 ```
-This code is using keyframe to specify the code animation that they want to use which in this case is change-color. It enables the text color to be changed into any colors that you pick. This animation is very useful if you are trying to point something out in your website insead of making it bold or italicizing it.
+This code is using keyframe to specify the code animation that they want to use which in this case is change-color. It enables the text color to be changed into any colors that you pick. This animation is very useful if you are trying to point something out in your website insead of making it **bold** or _italicizing_ it.
 
 _**Next Steps**: I will research ways on how to problem solve Wow.Js errors._
 
-3/11/24:
 
 
 
 
-3/18/24:
+
 
 
 
