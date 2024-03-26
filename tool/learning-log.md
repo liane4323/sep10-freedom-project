@@ -87,12 +87,17 @@ In order to implement my learning so far, I will create a practice web page from
 
 For now, I am going to prep my code and figure out what I want to do. I added html starter templet from W3 schools and put it into my html file. I am going to use animate and wow to reveal animations as you scroll down the page. I will be using 2 images, h1 and paragraphs.
 
+#### MVP
+
 * Color Scheme
   * #E2E2DB (226,226,219)
   * #9aaea3 (154, 174, 163)
 * Raw text
-  * h1 ↬
-  * p ↬
+  * h1 ↬ ❀ lulu's independent practice webpage ❀
+  * p ↬ I have 3 filler text that I want to insert from the Lorem Ipsum site for now
+    * "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    * "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain"
+    * Vivamus lacus nisl, aliquam eget turpis et, suscipit gravida justo. Nunc volutpat nunc odio, nec porttitor lectus fermentum eu. Donec egestas hendrerit tempus. Quisque a leo condimentum, pellentesque orci ac, tristique dolor. Nullam imperdiet justo ligula, eget aliquam lorem vehicula at. Etiam gravida metus vitae neque vehicula venenatis. Donec dignissim gravida turpis, commodo finibus urna hendrerit nec.
   * imgs ↬ 
 
 
