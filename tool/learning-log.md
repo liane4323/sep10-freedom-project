@@ -80,14 +80,21 @@ _**Next Steps**: I will make an attempt to start a independent code practice usi
 
 ### LOYO 5
 
-In order to implement my learning so far, _I made a html and css file to add in my code practice_. As I continue to learn new things about my tools I will make changes into these following files.
+In order to implement my learning so far, I will create a practice web page from scratch. I made a html and css file to add in my code practice, as I continue to learn new things about my tools I will make changes into these following files.
 
 *  <a href=index.html> index.html </a>
 *  <a href=style.css> style.css </a>
 
-For now, I am going to prep my code and figure out what I want to do. I added html starter templet from W3 schools and put it into my <a href=index.html> index.html </a>
+For now, I am going to prep my code and figure out what I want to do. I added html starter templet from W3 schools and put it into my html file. I am going to use animate and wow to reveal animations as you scroll down the page. I will be using 2 images, h1 and paragraphs.
 
-* 
+* Color Scheme
+  * #E2E2DB (226,226,219)
+  * #9aaea3 (154, 174, 163)
+* Raw text
+  * h1 ↬
+  * p ↬
+  * imgs ↬ 
+
 
 
 
