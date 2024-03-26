@@ -98,7 +98,9 @@ For now, I am going to prep my code and figure out what I want to do. I added ht
     * "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
     * "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain"
     * Vivamus lacus nisl, aliquam eget turpis et, suscipit gravida justo. Nunc volutpat nunc odio, nec porttitor lectus fermentum eu. Donec egestas hendrerit tempus. Quisque a leo condimentum, pellentesque orci ac, tristique dolor. Nullam imperdiet justo ligula, eget aliquam lorem vehicula at. Etiam gravida metus vitae neque vehicula venenatis. Donec dignissim gravida turpis, commodo finibus urna hendrerit nec.
-  * imgs ↬ 
+  * imgs ↬ 2 nature pictures
+    *  <a href=pic1.1.jpg> pic1 </a>
+    *  <a href=pic2.2.jpg> pic2 </a>
 
 
 
