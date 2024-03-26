@@ -78,6 +78,16 @@ wow.init();
 _**Next Steps**: I will make an attempt to start a independent code practice using both of my tools._
 
 
+### LOYO 5
+
+In order to implement my learning so far, I made a html and css file to add in my code practice. As I continue to learn new things about my tools I will make changes into these files.
+
+For today I am going to prep for my code and figure out what I want to do. I added html starter templet from W3 schools and put it into my <a href=index.html> index.html </a> 
+
+
+
+
+
 
 
 
