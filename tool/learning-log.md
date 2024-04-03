@@ -103,6 +103,22 @@ For now, I am going to prep my code and figure out what I want to do. I added ht
     *  <a href=pic2.2.jpg> pic2 </a>
 
 
+### LOYO Work Week 
+
+We have 3 last days to work on learning our tool, so here is what I plan on doing.  
+
+#### Agenda  
+
+* Day 1: I plan on working on my independent webpage that I created to practice my tools. I will insert the context that I had already prepped into my html page and tinker around with how I want my webpage to look. I already know that I want my website to be long enough to scroll down so that the animation will work. 
+
+* Day 2: On this day I will use animate.css to start animating. I will figure out how the animations work + what I should animate. My MVP is to at least make 3 things animated, but I will try and animate all of my content. 
+
+* Day 3: I will use on wow.js in order to hav my animations work as I am scrolling on my webpage. If I have any issues I will be using this day to troubleshoot, make edits + reflect.
+
+#### Day 1 
+_4/3/24_
+
+
 
 
 
