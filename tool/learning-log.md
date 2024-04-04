@@ -102,8 +102,7 @@ For now, I am going to prep my code and figure out what I want to do. I added ht
     *  <a href=pic1.1.jpg> pic1 </a>
     *  <a href=pic2.2.jpg> pic2 </a>
 
-
-
+_**Next Steps**: I will use my plan layout to start coding._
 
 
 
