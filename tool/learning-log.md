@@ -4,7 +4,7 @@
 Tool: **Animate.CSS + Wow.JS**
 
 ---
-### LOYO 1
+## LOYO 1
 
 2/26/24:
 
@@ -13,7 +13,7 @@ Tool: **Animate.CSS + Wow.JS**
 
 
 
-### LOYO 2
+## LOYO 2
 
 3/4/24:
 
@@ -41,7 +41,7 @@ _**Next Steps**: I will research ways on how to problem solve Wow.Js errors._
 
 
 
-### LOYO 4
+## LOYO 4
 
 3/18/24
 
@@ -78,7 +78,7 @@ wow.init();
 _**Next Steps**: I will make an attempt to start a independent code practice using both of my tools._
 
 
-### LOYO 5
+## LOYO 5
 
 In order to implement my learning so far, I will create a practice web page from scratch. I made a html and css file to add in my code practice, as I continue to learn new things about my tools I will make changes into these following files.
 
@@ -87,7 +87,7 @@ In order to implement my learning so far, I will create a practice web page from
 
 For now, I am going to prep my code and figure out what I want to do. I added html starter templet from W3 schools and put it into my html file. I am going to use animate and wow to reveal animations as you scroll down the page. I will be using 2 images, h1 and paragraphs.
 
-#### MVP
+### MVP
 
 * Color Scheme
   * #E2E2DB (226,226,219)
@@ -102,7 +102,24 @@ For now, I am going to prep my code and figure out what I want to do. I added ht
     *  <a href=pic1.1.jpg> pic1 </a>
     *  <a href=pic2.2.jpg> pic2 </a>
 
-_**Next Steps**: I will use my plan layout to start coding._
+
+## LOYO Work Week
+
+We have 3 last days to work on learning our tool, so here is what I plan on doing.
+
+### Agenda
+
+* Day 1: I plan on working on my independent webpage that I created to practice my tools. I will insert the context that I had already prepped into my html page and tinker around with how I want my webpage to look. I already know that I want my website to be long enough to scroll down so that the animation will work.
+
+* Day 2: On this day I will use animate.css to start animating. I will figure out how the animations work + what I should animate. My MVP is to at least make 3 things animated, but I will try and animate all of my content.
+
+* Day 3: I will use on wow.js in order to hav my animations work as I am scrolling on my webpage. If I have any issues I will be using this day to troubleshoot, make edits + reflect.
+
+#### Day 1
+_4/3/24_
+
+
+
 
 
 
