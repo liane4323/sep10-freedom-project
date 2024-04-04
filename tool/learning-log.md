@@ -118,7 +118,7 @@ We have 3 last days to work on learning our tool, so here is what I plan on doin
 #### Day 1
 _4/3/24_
 
-
+I completed my html and css, I did run into an issue that took so much time to fix. At first I had trouble with my css because it was unresponsive. I decided to delete my style.css file and linked my css into my index.html. It worked in the end and I am proud of my work. Taking into consideration that I completed my code from scratch. Sometimes my lines of code wouldn't work so I had to go back and review it thoroughly. It turned out to be spelling mistakes/errors.
 
 
 
