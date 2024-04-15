@@ -130,9 +130,10 @@ I took time in class to make any last html/css changes that I was unhappy with. 
 #### Day 3
 _4/5/24_
 
-This is my last working day, I managed to complete my MVP and more! I reached the goal that I had set for myself which is to animate all of my headings and imgs. During the proccess of coding, I linked wow.js before closing my body tag. I am proud of my work and I will be using some of these animations and applying them into my Freedom Project!
+This is my last working day, I managed to complete my MVP and more! I reached the goal that I had set for myself which is to animate all of my headings and imgs. During the proccess of coding, I linked wow.js before closing my body tag. I am proud of my work and I will be using a few of the animations that I picked and use it in the future.
 
 
+_**Next Steps**: I will input my learning and practice and use it in my Freedom Project Website!_
 
 
 
