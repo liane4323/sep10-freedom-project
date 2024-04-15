@@ -8,8 +8,13 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap" rel="stylesheet">
-
-
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Reem+Kufi+Fun:wght@400..700&family=Rubik+Scribble&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 
         <style>
 
@@ -24,19 +29,20 @@ img {
     border-radius: 4px;
     padding: 5px;
     width: 450px;
-
 }
 
 h2 {
     font-family: Ojuju;
     text-align: center;
     font-weight: bold;
+    color: #A4B494;
 }
 p {
     font-weight: normal;
+    text-align: center;
 }
 body {
-    background-color: #f0f0f0
+    background-color: #DFE0DA
 }
 
 h1 {
@@ -46,15 +52,24 @@ h1 {
     font-family: Ojuju;
     text-align: center;
     border: 3px solid green;
+    border-radius: 25px;
     padding: 20px;
     font-weight: 900;
     padding-bottom: 25px;
+    color: #3B5249;
+    margin-bottom: 50px;
+}
+
+#about {
+    margin-bottom: 50px;
 }
 
 #list {
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: rubik scribble;
+
 }
 
 .list-container {
@@ -69,11 +84,14 @@ ul {
 }
 
 ul.left-list {
-    margin-right: 20px;
+    margin-right: 400px;
+    font-weight: bold;
 }
 
 ul.right-list {
     margin-left: 20px;
+    font-weight: bold;
+    margin-bottom: 50px;
 }
 
 ul li {
@@ -81,16 +99,30 @@ ul li {
     list-style-type: disc;
 }
 
+.animate__animated.animate__bounce {
+  --animate-duration: 3s;
+}
+
+.animate_flip {
+    --animate-duration: 2s;
+}
+
+        </style>
+    </head>
+
 <body>
 
     <header>
-        <h1>❀ Lulu's Independent Practice Webpage ❀</h1>
+        <h1 class="animate__animated animate__bounce animate__repeat-2">❀ Lulu's Independent Practice Webpage ❀</h1>
     </header>
 
 
 
+
+
     <section id="list">
-    <h2>Things I ♡</h2>
+        <h2 class="wow animate__animated animate__zoomIn">Things I ♡</h2>
+
     <div class="list-container">
         <ul class="left-list">
             <li>nature</li>
@@ -105,19 +137,22 @@ ul li {
             <li>my hijab</li>
         </ul>
     </div>
-</section>
+    </section>
+
 
     <section id="about">
-            <h2>About Me</h2>
-            <p>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit"</"p>
-            <p>"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain."</p>
+        <h2 class="animate__bounceIn">About Me</h2>
+            <p>"لما كان تناسي حقوق الإنسان وازدراؤها قد أفضيا إلى أعمال همجية"</"p><p>
+            <p> Πριμα θταμθρ σεα νο, ατ νεc πατριοqθε ηενδρεριτ, αργθμεντθμ ομιτταντθρ qθι νο. Διαμ αλβθcιθσ ιν vιξ. Qθι σολθμ qθοδσι μαιεστατισ ετ, vιξ εθ μοvετ λαβορεσ πραεσεντ, θσθ ετ jθστο γραεcο τραcτατοσ. Vενιαμ ινδοcτθμ περcιπιτθρ αν νεc, εθ διcαμ νθσqθαμ ηισ. Ελιτ αντιοπαμ cονστιτθτο ιν εοσ, αλιι αππελλαντθρ ατ vιξ. Cθ δθο qθασ ιθδιcο, εραντ τριτανι αδμοδθμ τε νεc.</p>
+            <p>Μαγνα δισσεντιασ ιντερεσσετ περ εθ, ει σεδ τιμεαμ μεδιοcρεμ διγνισσιμ. Αδ νθμqθαμ ανcιλλαε δισπθτανδο ηισ, ειθσ vιδιτ τατιον ιδ ηασ. Εφφιcιαντθρ cοντεντιονεσ ρεπρεηενδθντ νο περ. Μελ θτ διcερετ δεφινιτιονεσ, qθισ ιδqθε εθ δθο. Εα λεγερε απεριαμ ρεπθδιανδαε cθμ. Vιξ νο ηενδρεριτ σcριπσεριτ.</p>
     </section>
 
+
     <section id="gallery">
-            <h2>Gallery</h2>
-            <img src="pic1.1.jpg" alt="Image 1">
-            <img src="pic2.2.jpg" alt="Image 2">
-    </section>
+        <h2 class="wow animate__animated animate__zoomIn">Gallery</h2>
+        <img id="image1" src="pic1.1.jpg" alt="Image 1" class="wow">
+        <img id="image2" src="pic2.2.jpg" alt="Image 2" class="wow">
+      </section>
 
 
     <footer>
@@ -125,5 +160,21 @@ ul li {
     </footer>
 
 
+    <script>
+    const image1 = document.getElementById('image1');
+    const image2 = document.getElementById('image2');
+
+
+    image1.classList.add('animate__animated', 'animate__slideInLeft');
+    image2.classList.add('animate__animated', 'animate__slideInRight');
+    </script>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/wow.js"></script>
+    <script>
+
+      new WOW().init();
+    </script>
 </body>
 </html>
