@@ -123,8 +123,14 @@ I completed my html and css, I did run into an issue that took so much time to f
 #### Day 2
 _4/4/24_
 
-I took time in class to make any last html/css changes that I was unhappy with. My website is looking good now! The animations will make it better. When I got home, I started working on my animations. I made sure to install animate.css using a CDN. I was very excited when I tested out an animation on my h1, and it worked! 
+I took time in class to make any last html/css changes that I was unhappy with. My website is looking good now! The animations that I added will make it better. Later on today, I started working on applying my animations. I made sure to install animate.css using a CDN. I was very excited when I tested out an animation on my h1, and it worked!
 
+* I used https://animate.style/ to get my animations
+
+#### Day 3
+_4/5/24_
+
+This is my last working day, I managed to complete my MVP and more! I reached the goal that I had set for myself which is to animate all of my headings and imgs. During the proccess of coding, I linked wow.js before closing my body tag. I am proud of my work and I will be using some of these animations and applying them into my Freedom Project!
 
 
 
