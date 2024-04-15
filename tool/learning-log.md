@@ -90,14 +90,14 @@ For now, I am going to prep my code and figure out what I want to do. I added ht
 ### MVP
 
 * Color Scheme
-  * #E2E2DB (226,226,219)
-  * #9aaea3 (154, 174, 163)
+  * #E2E2DB
+  * #f0f0f0;
 * Raw text
   * h1 ↬ ❀ lulu's independent practice webpage ❀
   * p ↬ I have 3 filler text that I want to insert from the Lorem Ipsum site for now
-    * "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-    * "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain"
-    * Vivamus lacus nisl, aliquam eget turpis et, suscipit gravida justo. Nunc volutpat nunc odio, nec porttitor lectus fermentum eu. Donec egestas hendrerit tempus. Quisque a leo condimentum, pellentesque orci ac, tristique dolor. Nullam imperdiet justo ligula, eget aliquam lorem vehicula at. Etiam gravida metus vitae neque vehicula venenatis. Donec dignissim gravida turpis, commodo finibus urna hendrerit nec.
+    * "قد لها عليها بقيادة, قد حتى نقطة فاتّبع ولاتّساع. وسفن ولكسمبورغ أم عدد, تم الى دارت لهيمنة. بين ان صفحة شرسة, أم عدد ألمّ أراضي التاريخ،. ما أما بهيئة الأسيوي التخطيط. قام لإعلان السادس عل, لم مكن كرسي الغالي الهجوم, يذكر أهّل أمدها لم كلا."
+    * ""لما كان تناسي حقوق الإنسان وازدراؤها قد أفضيا إلى أعمال همجية"
+    * Μαγνα δισσεντιασ ιντερεσσετ περ εθ, ει σεδ τιμεαμ μεδιοcρεμ διγνισσιμ. Αδ νθμqθαμ ανcιλλαε δισπθτανδο ηισ, ειθσ vιδιτ τατιον ιδ ηασ. Εφφιcιαντθρ cοντεντιονεσ ρεπρεηενδθντ νο περ. Μελ θτ διcερετ δεφινιτιονεσ, qθισ ιδqθε εθ δθο. Εα λεγερε απεριαμ ρεπθδιανδαε cθμ. Vιξ νο ηενδρεριτ σcριπσεριτ.
   * imgs ↬ 2 nature pictures
     *  <a href=pic1.1.jpg> pic1 </a>
     *  <a href=pic2.2.jpg> pic2 </a>
@@ -120,8 +120,10 @@ _4/3/24_
 
 I completed my html and css, I did run into an issue that took so much time to fix. At first I had trouble with my css because it was unresponsive. I decided to delete my style.css file and linked my css into my index.html. It worked in the end and I am proud of my work. Taking into consideration that I completed my code from scratch. Sometimes my lines of code wouldn't work so I had to go back and review it thoroughly. It turned out to be spelling mistakes/errors.
 
+#### Day 2
+_4/4/24_
 
-
+I took time in class to make any last html/css changes that I was unhappy with. My website is looking good now! The animations will make it better. When I got home, I started working on my animations. I made sure to install animate.css using a CDN. I was very excited when I tested out an animation on my h1, and it worked! 
 
 
 
