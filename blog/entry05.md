@@ -16,6 +16,10 @@ In this blog, I will be sharing the process that I went through when learning th
 
 While learning the tools that I chose, I filled out [learning logs](../tool/learning-log.md). These learning logs helped me reflect and jot down what I have been working on without losing track. The top goal that I had in mind was to create an independent web page. I customized this website and added some things that I liked.  My MVP is to at least make 3 things animated, but I managed to animate more than that.
 
+Here is a screenshot of an agenda for my webpage 
+
+![image](https://github.com/liane4323/sep10-freedom-project/assets/146861765/ad51f89e-da57-4df4-b58d-ff6ca90df748)
+
 
 * [Code for my webpage](../tool/index.html)
 
