@@ -1,23 +1,25 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
+* [Mobile](https://wireframe.cc/dWVDHl)
 * [Desktop]()
 
 ## Colors
-* `#ABC123`
+  * `#574f7d`
+  * `#95adbe`
 
 ## Fonts
-* [Text](URL)
+* [Ubuntu](https://fonts.google.com/selection/embed)
+* [Bebas Neue](https://fonts.google.com/selection/embed)
 
 ## Timeline
 
 #### MVP
 
-* Task/Timeline
-
+* Animate all h1 (using animate.css + wow.js)
+* insert content/research
 ---
 
 #### Beyond MVP
 
-* Task
+* Animate h2
