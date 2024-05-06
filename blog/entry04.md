@@ -49,7 +49,7 @@ As I was tinkering with my tool in jsbin, I got so excited that I forgot to inst
 
 
 ## Next Steps
-Now I am ready to _**use WowJS/AnimateCSS**_ on my project.
+Now I am ready to _**use WowJS/AnimateCSS**_ to make a prototype.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
