@@ -26,7 +26,7 @@ Here is a screenshot of an agenda for my webpage:
 
 ## [EDP](https://hstatsep.github.io/students/#edp) (Engineering Design Process)
 
-I am currently in step 5 of the EDP which is, **"create a prototype"**. I implemented my learning on a web page that I created from scratch. This website allowed me to practice my HTML and CSS skills whilst reflecting on the learning of my tools. I will input my practice on this web page and use it in my Freedom Project Website!
+I am currently in step 5 of the EDP which is, **"create a prototype"**. I implemented my learning on a [_web page_](https://liane4323.github.io/sep10-freedom-project/tool/) that I created from scratch. This website allowed me to practice my HTML and CSS skills whilst reflecting on the learning of my tools. I will input my practice on this web page and use it in my Freedom Project Website!
 
 
 
