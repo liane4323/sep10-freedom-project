@@ -1,24 +1,33 @@
 # SEP10 Freedom Project
-by **X**
+by **Lian Edhah**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **fashion**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Wow.Js and Animate.css** in order to help me make by website.
 
 ## Links
 
-[Product]()
+[Product](https://liane4323.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/15eSHb6LCFTb8klHPPqFGAgRGJA0Za75AhEP2pgIXwjE/edit#slide=id.g2dd9efb8168_0_515)
 
 ## Implications
 ##### PROS
-* 
+* Social
+  * individual
+  * relationships
+  * culture
+* Global
+  * big systems
+  * environment
+
 ##### CONS
-* 
+* Economic
+  * Jobs
+      * Technology in fashion could have negative effects on human employment. This is because robots might replace human jobs in the future, a concept that is already happening. For instance, self-checkout stations in supermarkets and automated parking ticket systems in malls are examples of technology taking over jobs that were once done by people. As a result, many people could lose their jobs to technological advancements.
 
 
 ## Blog
