@@ -17,16 +17,16 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **W
 ## Implications
 ##### PROS
 * Social
-  * individual
+  * Individual
     * The average person can be exposed to technological advancements in the fashion industry. These advancements may possibly allow comfort to an individual. Online shopping can insist that apps and online platforms powered by AI simplify the shopping process by providing personalized recommendations, making shopping more efficient and enjoyable. Another example, someone can use a body scanning device in order to find the perfect measuring and fit of the individual. Technology in fashion enhances the individual experience by improving comfort. 
-  * relationships
+  * Relationships
      * Technology can enhance a connection between two or more individuals. People can gain the same interests by supporting a fashion brand on social media. Many people are also interested in thrift shopping, but just imagine online thrift shopping. With the use of technology, fashion items can bring people together.
 * Global
    * Government/Laws
      * Technology in fashion can be used to monitor industries. Since fast fashion industries may be criticized for labor practices, advanced technology can be monitoring the safety for all the workers. If there are any issues the government can track the monitoring and their investigation would be very speedy. Technology in fashion has the ability to protect workers rights and overall create a more ethical fashion industry.  
-  * big systems
+  * Big systems
      * Technology in fashion brings a lot of benefits to big systems. Industries will use technologies like Artificial Intelligence to manage the supply chain and ensure speedy delivery. These technological advancements will allow industries/companies to talk about the issues before it causes a delay. This will surely result in decrease of delays and happy customers.  
-  * environment
+  * Environment
      * With the use of technology less resources can be used which reduces waste. Carbon emissions can be reduced which will result in better climate change. Technologies like 3D printing and other inventions reduce material waste. The environment will benefit from technology in the fashion industry. 
 ##### CONS
 * Economic
